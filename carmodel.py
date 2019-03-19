@@ -5,7 +5,7 @@ import pymysql
 
 HOSTNAME = 'localhost'
 USERNAME = 'root'
-PASSWORD = '1234'
+PASSWORD = '123'
 DATABASE = 'spider'
 
 
